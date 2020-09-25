@@ -7,3 +7,4 @@ The details are commented in the file.\
 Although time is not enough and the method is limited to get the best accuracy, we use what we learn in the class to reach 0.65 in the accuracy.
 
 # author
+Po-Hao Wu and Yi-Shun He
